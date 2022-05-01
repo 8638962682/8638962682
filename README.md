@@ -1,8 +1,4 @@
-- Hi, I’m @8638962682
-- I’m interested in building things
-- I’m currently learning to think
-- I’m looking to collaborate on simple things
-- How to reach me call
+ধ্ৰুৱ
 
 <!---
 8638962682/8638962682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
